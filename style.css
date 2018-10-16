@@ -9,6 +9,8 @@ body {
 
 .footer {
   color: gray;
-  margin: 20px 20 px;
+  margin: 30px 20px;
+  border: 2px solid black;
   text-align: center;
 }
+
