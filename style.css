@@ -1,4 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
 body {
     background-color: white;
     font-family: 'Mada', sans-serif;
   }
+
+.footer {
+  color: gray;
+  margin: 20px 20 px;
+  text-align: center;
+}
