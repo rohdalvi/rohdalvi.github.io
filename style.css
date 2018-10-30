@@ -5,12 +5,24 @@
 body {
     background-color: white;
     font-family: 'Mada', sans-serif;
+    text-align: center;
   }
 
-.footer {
-  color: gray;
-  margin: 30px 20px;
-  border: 2px solid black;
-  text-align: center;
+.hi{
+  border-style: solid;
+  border-color: lightcoral;
+}
+
+.footer{
+  background-color: lightcoral;
+}
+
+.footer > div {
+  display: inline-block;
+  display: -moz-inline-box;
+  *display: inline; /* For IE7 */
+  zoom: 1; /* Trigger hasLayout */
+  width: 50%;
+
 }
 
