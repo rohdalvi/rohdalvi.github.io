@@ -18,6 +18,7 @@ body {
 
 .hi .content h1{
   font-size: 35pt;
+  font-weight: 700;
   color: white;
   padding: 160px;
 }
@@ -26,6 +27,7 @@ body {
   border-bottom: 3px solid black;
   border-top: 3px solid black;
   display: inline-block;
+  font-weight: 700;
 }
 
 .who h4{
@@ -34,13 +36,14 @@ color: gray;
 text-align: center;
 margin: auto;
 width: 700px;
+font-weight: 300;
 }
 
 .what h2{
-  color: black;
   border-bottom: 3px solid black;
   border-top: 3px solid black;
   display: inline-block;
+  font-weight: 700;
 }
 
 .what h4{
@@ -48,9 +51,10 @@ width: 700px;
   color: gray;
   margin: auto;
   width: 700px;
+  font-weight: 300;
   }
 
-.github h3{
+.github a{
   background: black;
   border-radius: 3px;
   color: white;
@@ -58,14 +62,15 @@ width: 700px;
   margin: 10px;
   padding: 14px;
   text-decoration: none;
+  font-weight: 600;
 }
 
-.github h3:link{
+.github a:link{
   color: white;
   text-decoration: none;
 }
 
-.github h3:hover{
+.github a:hover{
   background: lightcoral;
   color: white;
   text-decoration: none;
@@ -83,6 +88,6 @@ width: 700px;
   *display: inline; /* For IE7 */
   zoom: 1; /* Trigger hasLayout */
   width: 50%;
-
+  font-weight: 300;
 }
 
