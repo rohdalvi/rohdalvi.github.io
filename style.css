@@ -9,7 +9,7 @@ body {
   }
 
 .hi{
-  background-image: url("pic1.png");
+  background-image: url("pic2.png");
   background-size: cover;
   background-position: top center;
   height: 400px;
@@ -28,6 +28,7 @@ body {
   border-top: 3px solid black;
   display: inline-block;
   font-weight: 700;
+  padding: 5px;
 }
 
 .who h4{
@@ -37,6 +38,7 @@ text-align: center;
 margin: auto;
 width: 700px;
 font-weight: 300;
+padding: 10px;
 }
 
 .what h2{
@@ -44,6 +46,7 @@ font-weight: 300;
   border-top: 3px solid black;
   display: inline-block;
   font-weight: 700;
+  padding: 5px;
 }
 
 .what h4{
@@ -52,6 +55,7 @@ font-weight: 300;
   margin: auto;
   width: 700px;
   font-weight: 300;
+  padding: 10px;
   }
 
 .github a{
@@ -80,6 +84,7 @@ font-weight: 300;
   border-bottom: 3px solid black;
   border-top: 3px solid black;
   display: inline-block;
+  padding: 5px;
 }
 
 .footer > div {
