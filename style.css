@@ -1,3 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
 *{
   box-sizing: border-box;
 }
@@ -17,18 +27,20 @@ body {
 }
 
 .hi .content h1{
-  font-size: 35pt;
+  font-size: 40pt;
   font-weight: 700;
   color: white;
   padding: 160px;
 }
 
 .who h2{
+  margin-top: 30px;
   border-bottom: 3px solid black;
   border-top: 3px solid black;
   display: inline-block;
   font-weight: 700;
   padding: 5px;
+  font-size: 20px;
 }
 
 .who h4{
@@ -42,11 +54,13 @@ padding: 10px;
 }
 
 .what h2{
+  margin-top: 30px;
   border-bottom: 3px solid black;
   border-top: 3px solid black;
   display: inline-block;
   font-weight: 700;
   padding: 5px;
+  font-size: 20px;
 }
 
 .what h4{
@@ -85,6 +99,7 @@ padding: 10px;
   border-top: 3px solid black;
   display: inline-block;
   padding: 5px;
+  margin-bottom: 10px;
 }
 
 .footer > div {
