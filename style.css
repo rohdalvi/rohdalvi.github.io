@@ -45,7 +45,7 @@ body {
 
 .who h4{
 font-weight: lighter;
-color: gray;
+color: rgb(10,10,10);
 text-align: center;
 margin: auto;
 width: 700px;
@@ -66,7 +66,8 @@ font-size: 17px;
 
 .what h4{
   font-weight: lighter;
-  color: gray;
+  color: rgb(10,10,10);
+  text-align: center;
   margin: auto;
   width: 700px;
   font-weight: 300;
