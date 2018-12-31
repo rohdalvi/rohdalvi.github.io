@@ -41,7 +41,7 @@ body {
   display: inline-block;
   font-weight: 700;
   padding: 5px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .who h4{
@@ -62,7 +62,7 @@ body {
   display: inline-block;
   font-weight: 700;
   padding: 5px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .what h4{
@@ -83,7 +83,7 @@ body {
   display: inline-block;
   font-weight: 700;
   padding: 5px;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .column{
@@ -110,6 +110,7 @@ margin-bottom: 40px;
   padding: 14px;
   text-decoration: none;
   font-weight: 600;
+  margin-bottom: 20px;
 }
 
 .github a:link{
@@ -128,7 +129,7 @@ margin-bottom: 40px;
   border-top: 3px solid black;
   display: inline-block;
   padding: 5px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .footer > div {
