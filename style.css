@@ -104,16 +104,22 @@ margin-bottom: 40px;
 
 .grid-container {
   display: grid;
-  grid-template-columns: 300px 600px;
+  grid-template-columns: 600px 600px;
   padding: 10px;
   justify-content: space-around;
-  
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
+  align-items: center;
 }
+
 .grid-item {
   padding: 20px;
   font-weight: 300;
   color: rgb(10,10,10);
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .github a{
