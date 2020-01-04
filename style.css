@@ -140,6 +140,8 @@ margin-bottom: 40px;
   text-decoration: none;
 }
 
-.footer{ 
-  background: gray;
+footer{ 
+  margin-top: 30px;
+  background:#353942;
+  color: white;
 }
